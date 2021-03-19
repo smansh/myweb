@@ -1,4 +1,3 @@
 #! /bin/bash
-/opt/tomcat8/bin/shutdown.sh
+/opt/tomcat/bin/shutdown.sh
 
-demo
